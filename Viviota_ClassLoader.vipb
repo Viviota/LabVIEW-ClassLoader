@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-07-05 18:11:56" Modified_Date="2025-02-25 18:02:09" Creator="jyoun" Comments="" ID="51845c920db7a74ba992dcab09f37782">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-07-05 18:11:56" Modified_Date="2025-02-25 18:27:22" Creator="jyoun" Comments="" ID="6c0b8686e0f8b18012ef0c8f67f7db25">
   <Library_General_Settings>
     <Package_File_Name>Viviota_lib_Viviota_ClassLoader</Package_File_Name>
     <Library_Version>1.0.0.10</Library_Version>
@@ -231,7 +231,7 @@ There is an alternate version of this library which links the API library direct
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>ClassLoader\ClassLoader.vi</Path>
+        <Path>ClassLoader_VIMs\ClassLoader.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -245,7 +245,7 @@ There is an alternate version of this library which links the API library direct
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>ClassLoader_lib\ClassLoader_lib.vi</Path>
+        <Path>ClassLoader_VIMs\ClassLoader_lib.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -259,7 +259,7 @@ There is an alternate version of this library which links the API library direct
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>iClassLoader\iClassLoader.vi</Path>
+        <Path>ClassLoader_VIMs\iClassLoader.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -290,7 +290,7 @@ There is an alternate version of this library which links the API library direct
         <Path>ClassLoader_VIMs\LoadClassFromName_Interface.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>12A4AB6C9D1B26C805BD57A6587D7D82</GUID>
+      <GUID>D1333B22BAD4959F6FC519440BFE3B21</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
