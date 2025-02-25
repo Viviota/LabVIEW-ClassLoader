@@ -5,9 +5,9 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="ClassLoader.vi" Type="VI" URL="../ClassLoader_VIMs/ClassLoader.vi"/>
-	<Item Name="ClassLoader_lib.vi" Type="VI" URL="../ClassLoader_VIMs/ClassLoader_lib.vi"/>
-	<Item Name="iClassLoader.vi" Type="VI" URL="../ClassLoader_VIMs/iClassLoader.vi"/>
-	<Item Name="LoadClassFromName_Interface.vi" Type="VI" URL="../ClassLoader_VIMs/LoadClassFromName_Interface.vi"/>
-	<Item Name="LoadClassFromName.vim" Type="VI" URL="../ClassLoader_VIMs/LoadClassFromName.vim"/>
+	<Item Name="ClassLoader.vi" Type="VI" URL="../ClassLoader_API/ClassLoader.vi"/>
+	<Item Name="ClassLoader_lib.vi" Type="VI" URL="../ClassLoader_API/ClassLoader_lib.vi"/>
+	<Item Name="iClassLoader.vi" Type="VI" URL="../ClassLoader_API/iClassLoader.vi"/>
+	<Item Name="LoadClassFromName_Interface.vi" Type="VI" URL="../ClassLoader_API/LoadClassFromName_Interface.vi"/>
+	<Item Name="LoadClassFromName.vim" Type="VI" URL="../ClassLoader_API/LoadClassFromName.vim"/>
 </Library>

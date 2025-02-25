@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-07-05 18:11:56" Modified_Date="2025-02-25 18:23:12" Creator="jyoun" Comments="" ID="42d1c351f20aa40c33456623c99aa4fc">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-07-05 18:11:56" Modified_Date="2025-02-25 18:40:26" Creator="jyoun" Comments="" ID="fb6cc7c24922d9f1d9fe66c74a2997de">
   <Library_General_Settings>
     <Package_File_Name>Viviota_lib_Viviota_ClassLoader_PPLAPI</Package_File_Name>
-    <Library_Version>1.0.0.10</Library_Version>
+    <Library_Version>1.0.1.11</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\Builds\VIPM\VIV_ClassLoader</Library_Output_Folder>
@@ -27,7 +27,7 @@
       <Pre-Uninstall_VI/>
       <Post-Uninstall_VI>Post-Uninstall Custom Action.vi</Post-Uninstall_VI>
     </Custom_Action_VIs>
-    <VI_Package_Configuration_File>Viviota_ClassLoader - Copy.vipc</VI_Package_Configuration_File>
+    <VI_Package_Configuration_File>Viviota_ClassLoader_PPLAPI.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>Package to help with loading LabVIEW classes from Disk</One_Line_Description_Summary>
       <Description>This package provides a single class/interface for loading classes dynamically into memory
@@ -245,7 +245,7 @@ A compiled PPL version of this library is also provided (for Windows).  Because 
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>ClassLoader_VIMs\ClassLoader.vi</Path>
+        <Path>ClassLoader_API\ClassLoader.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -259,7 +259,7 @@ A compiled PPL version of this library is also provided (for Windows).  Because 
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>ClassLoader_VIMs\ClassLoader_lib.vi</Path>
+        <Path>ClassLoader_API\ClassLoader_lib.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -273,7 +273,7 @@ A compiled PPL version of this library is also provided (for Windows).  Because 
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>ClassLoader_VIMs\iClassLoader.vi</Path>
+        <Path>ClassLoader_API\iClassLoader.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -287,7 +287,7 @@ A compiled PPL version of this library is also provided (for Windows).  Because 
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>ClassLoader_VIMs\LoadClassFromName.vim</Path>
+        <Path>ClassLoader_API\LoadClassFromName.vim</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -301,10 +301,10 @@ A compiled PPL version of this library is also provided (for Windows).  Because 
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>ClassLoader_VIMs\LoadClassFromName_Interface.vi</Path>
+        <Path>ClassLoader_API\LoadClassFromName_Interface.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A7F61054B8D0222278CF8CDA4AD872CF</GUID>
+      <GUID>247867F68E2BE37836AB4D9676964F77</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

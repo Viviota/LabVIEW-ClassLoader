@@ -14,7 +14,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="ClassLoader.lvlib" Type="Library" URL="../ClassLoader.lvlib"/>
-		<Item Name="ClassLoader_VIMs.lvlib" Type="Library" URL="../ClassLoader_VIMs.lvlib"/>
+		<Item Name="ClassLoader_API.lvlib" Type="Library" URL="../ClassLoader_API.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
